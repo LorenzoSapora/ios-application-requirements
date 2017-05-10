@@ -6,10 +6,25 @@ DESC
 
 Sizes
 
+App icon:
+
+
+
 ## Store information
 
 Name:
 
-Privacy URL: 
+Desc:
+
+Keywords:
+
+Support URL:
+
+Marketing URL:
+
+Privacy URL:
+
+Copyright:
+
 
 ## Development
