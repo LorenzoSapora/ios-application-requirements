@@ -8,7 +8,7 @@ Sizes
 
 App icon:
 
-
+Advert images x5:
 
 ## Store information
 
