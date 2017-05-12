@@ -26,5 +26,6 @@ Privacy URL:
 
 Copyright:
 
+Version:
 
 ## Development
