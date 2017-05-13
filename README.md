@@ -29,3 +29,5 @@ Copyright:
 Version:
 
 ## Development
+
+SSL exception:
