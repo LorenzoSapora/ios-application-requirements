@@ -8,6 +8,8 @@ Sizes
 
 App icon:
 
+Banner image:
+
 Advert images x5:
 
 ## Store information
@@ -31,4 +33,5 @@ Version:
 ## Development
 
 SSL exception:
+
 Git repo:
