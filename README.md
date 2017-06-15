@@ -2,6 +2,8 @@
 
 DESC
 
+## Canonical source
+
 ## Images
 
 Sizes
