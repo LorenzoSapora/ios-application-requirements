@@ -4,7 +4,7 @@ DESC
 
 ## Canonical source
 
-https://git.knowbl.co/dev/ios-application-requirements
+[https://git.knowbl.co/dev/ios-application-requirements](https://git.knowbl.co/dev/ios-application-requirements)
 
 ## Images
 
