@@ -2,10 +2,6 @@
 
 DESC
 
-## Canonical source
-
-[https://git.knowbl.co/dev/ios-application-requirements](https://git.knowbl.co/dev/ios-application-requirements)
-
 ## Images
 
 Sizes
@@ -41,3 +37,7 @@ SSL exception:
 Git repo:
 
 Language:
+
+## Canonical source
+
+[https://git.knowbl.co/dev/ios-application-requirements](https://git.knowbl.co/dev/ios-application-requirements)
